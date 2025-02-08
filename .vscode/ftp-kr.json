@@ -1,0 +1,16 @@
+{
+    "host": "ftp.nte24.nazwa.pl",
+    "username": "nte24_newtechelements",
+    "password": "+x9=)17:Dp+^",
+    "remotePath": "./sellasist/sellasistant",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": true,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
